@@ -2,12 +2,8 @@
 
 ### Welcome to my Github profile!
 
-### I have a great knowledge and training acquired by the SENAI training center in the area of ​​CNC programming (Computerized Numerical Command) and machining, I have been working for more than 11 years with proven record in portfolio.
-Currently focusing on a transition to IT, programming logic, Front end and back end
-Certificate provided by the SENAI training center for programming logic and information technologies and networks.
-Computer software hardware and Introduction to Python language, training with certificate at ALFAHELIX school.
-CURRENTLY ATTENDING FULL STACK DEVELOPER AT SCHOOL KENZIE ACADEMY BRAZIL
-FRONT END AND BACK END
+### ATUALMENTE CURSANDO DESENVOLVEDOR FULL STACK NA ESCOLA KENZIE ACADEMY BRASIL
+FRONT END E BACK END
 
 <div>
   <a href="https://github.com/luizsilvatraders">
